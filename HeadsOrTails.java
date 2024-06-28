@@ -26,6 +26,7 @@ public class HeadsOrTails {
             }
         }
 
+
         System.out.println("Heads: " + heads + ", Tails: " + tails);
 
         if (heads > tails) {
